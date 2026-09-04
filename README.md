@@ -1,6 +1,6 @@
 # Self-Attention & Transformer Architecture Implementation
 
-本项目包含了基于 **PyTorch** 手大（From Scratch）实现自注意力机制（Self-Attention）与 Transformer 核心组件的代码示例，旨在帮助深入理解注意力机制的数学原理与代码实现细节。
+本项目包含了基于 **PyTorch** （From Scratch）实现自注意力机制（Self-Attention）与 Transformer 核心组件的代码示例，旨在帮助深入理解注意力机制的数学原理与代码实现细节。
 
 ---
 
